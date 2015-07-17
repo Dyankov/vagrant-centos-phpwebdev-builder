@@ -1,0 +1,2 @@
+installPackage nodejs
+installPackage npm

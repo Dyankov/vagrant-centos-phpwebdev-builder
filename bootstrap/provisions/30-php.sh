@@ -1,0 +1,2 @@
+installPackage php56w
+installPackage php56w-cli

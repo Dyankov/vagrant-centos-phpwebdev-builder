@@ -1,0 +1,4 @@
+installPackage php56w-common
+installPackage libmcrypt-devel
+installPackage php56w-mcrypt
+installPackage php56w-mbstring
