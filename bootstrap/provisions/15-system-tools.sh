@@ -6,3 +6,9 @@ sudo systemctl enable ntpd
 
 # Vim
 installPackage vim-enhanced
+
+# Command line clipboard grabber
+installPackage xclip
+
+# A screen manager that supports multiple logins on one terminal
+installPackage screen
