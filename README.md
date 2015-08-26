@@ -1,7 +1,7 @@
 CentOS 7 PHP Web Dev Vagrant Box Builder
 ========================================
 
-This tool is used to build and provion the base box used in https://github.com/Dyankov/centos-7.0-phpwebdev
+This tool is used to build and provion the base box used in https://github.com/dyankov91/centos-7.0-phpwebdev
 
 
 # Managing Packages and Repos
